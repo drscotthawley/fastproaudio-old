@@ -62,3 +62,8 @@ permalink: pretty
 
 theme: jekyll-theme-cayman
 baseurl: /fastproaudio/
+
+plugins:
+    - jekyll-remote-theme
+    
+remote_theme: fastai/nbdev-jekyll-theme
